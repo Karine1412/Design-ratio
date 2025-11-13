@@ -33,7 +33,7 @@ Our team collaborated to build a full-stack web application using MERN Stack and
 | Technology | Purpose |
 |------------|---------|
 | **MongoDB Atlas** | Cloud Database |
-| **Mongoose** | Object Document Model (ODM) |
+| **Mongoose** | Object  Document Model (ODM) |
 
 ---
 
